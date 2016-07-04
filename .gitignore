@@ -18,5 +18,4 @@ mvnw.cmd
 safetyleaf.iml
 .idea/
 .mvn/
-pom.xml
 target/
